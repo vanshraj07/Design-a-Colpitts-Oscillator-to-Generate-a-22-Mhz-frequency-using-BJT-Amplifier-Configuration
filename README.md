@@ -1,4 +1,4 @@
-Colpitt Oscillator ⚡🎛️
+#Colpitt Oscillator ⚡🎛️
 Overview
 This project showcases the design, simulation, and hardware implementation of a Colpitt Oscillator intended to generate a 22 MHz sinusoidal signal using a BJT amplifier configuration. The oscillator leverages the LC tank circuit and feedback through capacitive voltage division to sustain oscillations — widely used in RF generation circuits.
 Key Features
