@@ -38,7 +38,7 @@ This project showcases the design, simulation, and hardware implementation of a 
 
 ## 🧱 Project Structure
 
-colpitt-oscillator/
+**colpitt-oscillator/
 │
 ├── design/ # Handwritten & theoretical design files
 │ └── calculations.pdf
@@ -49,7 +49,7 @@ colpitt-oscillator/
 ├── hardware/ # Physical build and test results
 │ ├── breadboard.jpg
 │ ├── perfboard.jpg
-│ └── waveform.png
+│ └── waveform.png**
 
 
 ---
