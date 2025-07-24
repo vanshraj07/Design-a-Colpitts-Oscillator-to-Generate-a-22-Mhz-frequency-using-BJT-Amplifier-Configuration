@@ -38,6 +38,7 @@ This project showcases the design, simulation, and hardware implementation of a 
 
 ## 🧱 Project Structure
 
+```
 colpitt-oscillator/
 │
 ├── design/             # Handwritten & theoretical design files
@@ -50,7 +51,7 @@ colpitt-oscillator/
 │   ├── breadboard.jpg
 │   ├── perfboard.jpg
 │   └── waveform.png
-
+```
 
 ---
 
