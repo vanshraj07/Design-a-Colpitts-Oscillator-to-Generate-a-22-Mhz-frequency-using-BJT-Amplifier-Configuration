@@ -62,9 +62,6 @@ colpitt-oscillator/
 - **Vansh Sabharwal** – Roll No: 230002080  
 - **Aditya Gandhra** – Roll No: 230002004  
 
-🧪 **Group 14** – Analog Circuit Lab (EE254)  
-📅 **April 29, 2025 @ 4:15 P.M.**
-
 ---
 
 ## 🙏 Acknowledgments
