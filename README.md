@@ -38,18 +38,18 @@ This project showcases the design, simulation, and hardware implementation of a 
 
 ## 🧱 Project Structure
 
-**colpitt-oscillator/**
+colpitt-oscillator/
 │
-├── **design/ # Handwritten & theoretical design files**
-│ └── calculations.pdf
+├── design/             # Handwritten & theoretical design files
+│   └── calculations.pdf
 │
-├── simulation/ # LTspice project
-│ └── colpitt.asc
+├── simulation/         # LTspice project
+│   └── colpitt.asc
 │
-├── hardware/ # Physical build and test results
-│ ├── breadboard.jpg
-│ ├── perfboard.jpg
-│ └── waveform.png
+├── hardware/           # Physical build and test results
+│   ├── breadboard.jpg
+│   ├── perfboard.jpg
+│   └── waveform.png
 
 
 ---
